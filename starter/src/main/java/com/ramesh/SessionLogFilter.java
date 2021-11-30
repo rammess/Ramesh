@@ -19,7 +19,7 @@ public class SessionLogFilter implements Filter {
 	@Override
 	public void init(FilterConfig filterConfig) throws ServletException {
 		//WebApplicationContextUtils.getRequiredWebApplicationContext(filterConfig.getServletContext());
-		//Test appliation
+		//Test appliation now
 	}
 
 	@Override
